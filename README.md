@@ -18,7 +18,7 @@ Tinder for dogs
 
 ### Screenshot
 
-![](images/tindog-screenshot.png)
+![](images/museum-of-candy-screenshot.png)
 
 ### Links
 
